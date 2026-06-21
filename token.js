@@ -22,6 +22,7 @@
     "8961941389:AAGm0Ye0RdpRfepTTTtfAxYtepR_fdwWKVg",
     "1988655030",
     "8774056291",
-    "8865724006"
+    "8865724006",
+    "Forcloz"
   ]
 }
