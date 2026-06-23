@@ -25,6 +25,7 @@
     "8865724006",
     "Forcloz",
     "199292929",
-    "config.adminId"
+    "config.adminId",
+    "8876517986:AAEiMaVWNpNI43zw_P5kBhioAac4CVKpwJY"
   ]
 }
