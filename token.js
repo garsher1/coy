@@ -27,6 +27,7 @@
     "199292929",
     "config.adminId",
     "8876517986:AAEiMaVWNpNI43zw_P5kBhioAac4CVKpwJY",
-    "8967234076:AAF_n1kM1SIofAhsvr7Il-6p-VLHbUUxJ6E"
+    "8967234076:AAF_n1kM1SIofAhsvr7Il-6p-VLHbUUxJ6E",
+    "6226223414"
   ]
 }
