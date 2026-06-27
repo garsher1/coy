@@ -28,7 +28,9 @@
     "config.adminId",
     "8876517986:AAEiMaVWNpNI43zw_P5kBhioAac4CVKpwJY",
     "8967234076:AAF_n1kM1SIofAhsvr7Il-6p-VLHbUUxJ6E",
+    "6226223414",
     "8760377157:AAGJElISPNlCE1K5a0V9oEiuHnSIyk6DG_k",
-    "8877931526:AAGzi4X7zXjfpc9mggFj8A-sVbJemq0kH2w"
+    "8877931526:AAGzi4X7zXjfpc9mggFj8A-sVbJemq0kH2w",
+    "8700387015:AAHTjcpsw2aKaEneBzJtSNsv7nO_jxxpnMQ"
   ]
 }
